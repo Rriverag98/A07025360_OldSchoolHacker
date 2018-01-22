@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/hfhfh.unity
+  isLoaded: 1
+  isActive: 1
